@@ -37,5 +37,5 @@ In this section, we dive into the realm of data analytics to gain valuable insig
 
    * Budget Analysis: Explore the relationship between movie budgets and financial success. Analyze the correlation between movie budgets and gross earnings. Identify movies with the highest profit margin.
 
-🌐 LinkedIn:
+
 
